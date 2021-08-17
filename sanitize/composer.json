@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bayfrontmedia/php-sanitize": "^1.0"
+    }
+}
